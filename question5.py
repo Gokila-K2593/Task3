@@ -5,4 +5,4 @@ s = input("Enter a string: ")
 if is_palindrome(s):
     print("It is a palindrome")
 else:
-    print("It is not a palindrome")
+    print("It is not a palindrome") 
